@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    line-height: 1.5;
+}
+
+body {
+  background-color: #a567da;
+  font-family: Verdana, sans-serif;
+  margin: 20px;
+}
+
+p {
+  color: #333;
+  line-height: 1.6;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
